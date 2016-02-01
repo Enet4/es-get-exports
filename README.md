@@ -6,7 +6,7 @@ Retrieve a list of export names from an ECMAScript 2015 module file in Node.js, 
 
 ## Usage
 
-Given the following module in 'my/module':
+Given the following module in 'my/module.js':
 
 ```javascript
 export function hello() {
