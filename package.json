@@ -1,0 +1,35 @@
+{
+  "name": "es-get-exports",
+  "version": "0.1.0",
+  "description": "Obtain a list of ECMAScript2015 exports from a module file without evaluation.",
+  "author": "Eduardo Pinho <enet4mikeenet@gmail.com>",
+  "main": "lib/index.js",
+  "esnext-main": "src/index.js",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "scripts": {
+    "test": "mocha",
+    "prepublish": "babel src -d lib"
+  },
+  "keywords": [
+    "ecmascript",
+    "ecmascript2015",
+    "es2015",
+    "exports"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "espree": "^3.0.0",
+    "resolve-from": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-preset-nodejs-lts": "^1.2.0",
+    "mocha": "^2.4.5"
+  }
+}
