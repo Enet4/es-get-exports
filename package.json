@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Obtain a list of ECMAScript2015 exports from a module file without evaluation.",
   "author": "Eduardo Pinho <enet4mikeenet@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Enet4/es-get-exports.git"
+  },
   "main": "lib/index.js",
   "esnext-main": "src/index.js",
   "files": [
