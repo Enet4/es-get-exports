@@ -1,6 +1,6 @@
 {
   "name": "es-get-exports",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Obtain a list of ECMAScript2015 exports from a module file without evaluation.",
   "author": "Eduardo Pinho <enet4mikeenet@gmail.com>",
   "repository": {
