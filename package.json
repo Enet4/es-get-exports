@@ -8,7 +8,7 @@
     "url": "https://github.com/Enet4/es-get-exports.git"
   },
   "main": "lib/index.js",
-  "esnext-main": "src/index.js",
+  "jsnext:main": "src/index.js",
   "files": [
     "src/",
     "lib/"
