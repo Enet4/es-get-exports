@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/npm/v/es-get-exports.svg)](https://www.npmjs.org/package/es-get-exports)
+[![version](https://img.shields.io/npm/v/es-get-exports.svg)](https://www.npmjs.org/package/es-get-exports) [![Build Status](https://travis-ci.org/Enet4/es-get-exports.svg?branch=master)](https://travis-ci.org/Enet4/es-get-exports)
 
 # ECMAScript 2015 getExports
 
